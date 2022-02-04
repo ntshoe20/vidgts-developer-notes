@@ -1,0 +1,9 @@
+site_name: vidgts-developer
+site_url: https://vidgts-developer.co.za
+
+theme:
+      name: ivory
+
+nav:
+    - Home: index.md
+    - About: about.md
