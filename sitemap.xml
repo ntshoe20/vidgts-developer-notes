@@ -2,12 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://vidgts-developer.co.za/</loc>
-         <lastmod>2022-02-04</lastmod>
+         <lastmod>2022-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vidgts-developer.co.za/about/</loc>
-         <lastmod>2022-02-04</lastmod>
+         <loc>https://vidgts-developer.co.za/azure_commands/</loc>
+         <lastmod>2022-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vidgts-developer.co.za/github_commands/</loc>
+         <lastmod>2022-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vidgts-developer.co.za/kubernetes_commands/</loc>
+         <lastmod>2022-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vidgts-developer.co.za/react_commands/</loc>
+         <lastmod>2022-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
