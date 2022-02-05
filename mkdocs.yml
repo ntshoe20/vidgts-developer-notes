@@ -7,6 +7,6 @@ theme:
 nav:
     - Home: index.md
     - Github Commands: github_commands.md
-    - Kubernetes commands: Kubernetes_commands.md
+    - Kubernetes commands: kubernetes_commands.md
     - Azure commands: azure_commands.md
     - React commands: react_commands.md
