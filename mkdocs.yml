@@ -10,3 +10,4 @@ nav:
     - Kubernetes commands: kubernetes_commands.md
     - Azure commands: azure_commands.md
     - React commands: react_commands.md
+    - Iac approach: iac_approach.md
