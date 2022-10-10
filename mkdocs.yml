@@ -11,3 +11,4 @@ nav:
     - Azure commands: azure_commands.md
     - React commands: react_commands.md
     - Iac approach: iac_approach.md
+    - Vue getting started: vue_starterkit.md
