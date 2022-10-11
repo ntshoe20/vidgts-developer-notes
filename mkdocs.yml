@@ -9,6 +9,6 @@ nav:
     - Github Commands: github_commands.md
     - Kubernetes commands: kubernetes_commands.md
     - Azure commands: azure_commands.md
-    - React commands: react_commands.md
+    - Helm getting started: helm_starterkit.md
     - Iac approach: iac_approach.md
     - Vue getting started: vue_starterkit.md
