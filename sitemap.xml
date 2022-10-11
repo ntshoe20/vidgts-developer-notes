@@ -16,17 +16,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vidgts-developer.co.za/helm_starterkit/</loc>
+         <lastmod>2022-10-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vidgts-developer.co.za/iac_approach/</loc>
          <lastmod>2022-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vidgts-developer.co.za/kubernetes_commands/</loc>
-         <lastmod>2022-10-11</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vidgts-developer.co.za/react_commands/</loc>
          <lastmod>2022-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>

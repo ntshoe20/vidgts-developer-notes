@@ -44,7 +44,7 @@
 <ul class="subnav">
 </ul></li>
                     <li class="toctree-l1"><a class="nav-item" href="../azure_commands/">Azure commands</a></li>
-                    <li class="toctree-l1"><a class="nav-item" href="../react_commands/">React commands</a></li>
+                    <li class="toctree-l1"><a class="nav-item" href="../helm_starterkit/">Helm getting started</a></li>
                     <li class="toctree-l1">
 <a class="nav-item" href="../iac_approach/">Iac approach</a></li>
                     <li class="toctree-l1"><a class="nav-item" href="../vue_starterkit/">Vue getting started</a></li>
@@ -67,7 +67,29 @@
     
 </ul>
 </nav>
-                <div id="content"><h2 id="coming-soon">Coming Soon</h2></div>
+                <div id="content"><hr />
+<h1 id="getting-started-with-k8s-with-kind">Getting Started with k8s with KinD</h1>
+<hr />
+<p>Create a local kubernetes cluster using 
+ <a href="https://kind.sigs.k8s.io">KinD</a></p>
+<pre><code>kind create cluster --name &lt;clusterName&gt;
+
+kind get clusters
+
+kubectl cluster-info
+</code></pre>
+<p>Delete a KinD cluster</p>
+<pre><code>kind delete cluster
+</code></pre>
+<p>K8s FUC (Frequently Used Commands)</p>
+<pre><code>kubectl get namespace
+kubectl config current-context
+kubectl apply -f &lt;file_name&gt; -n &lt;namespace&gt;
+kubectl get pods -n &lt;namespace&gt;
+kubectl get svc -n &lt;namespace&gt;
+kubectl port-forward svc/&lt;service_name&gt;  servicePort:externalPort -n &lt;namespace&gt; 
+
+</code></pre></div>
                 <footer>
     <div class="footer-buttons">
         <div class="previous"><a href="../github_commands/" title="Github Commands"><span>Previous</span></a></div>
